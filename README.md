@@ -1,6 +1,6 @@
 # Kaggle-competition-tabular-playground-series-jul-2022
 
-For this challenge, you are given (simulated) manufacturing control data that can be clustered into different control states. Your task is to cluster the data into these control states. You are not given any training data, and you are not told how many possible control states there are. This is a completely unsupervised problem, one you might encounter in a real-world setting.
+For this challenge, you are given (simulated) manufacturing control data that can be clustered into different control states. Your task is to cluster the data into these control states.
 
 https://www.kaggle.com/competitions/tabular-playground-series-jul-2022
 
