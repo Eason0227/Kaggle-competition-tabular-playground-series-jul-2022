@@ -27,7 +27,8 @@ EDA :
 6. Combine prediction  
     * Combine the probabilities from the different classification/clustering algorithms
 7. Iterative Classification with BGMM Classifier
-    * We iteratively use the the predicted labels from the previous iteration's model as our training labels for the current iteration's model.。
+    * We iteratively use the the predicted labels from the previous iteration's model as our training labels for the current iteration's model.
+    * Iteration = 20
 8. Submmition
 
 ## Final submmition result
