@@ -24,8 +24,11 @@ EDA :
 5. Modeling 
     * Using 5 models: ET,QDA,LDA,BGMM and LGBM
     * 5 fold Cross validation to evaluate performance of models, finally choose LGBM
-6. Iterative Classification with BGMM Classifier
-
+6. Combine prediction  
+    * Combine the probabilities from the different classification/clustering algorithms
+7. Iterative Classification with BGMM Classifier
+    * We can iteratively use the the predicted labels from the previous iteration's model as our training labels for the current iteration's model.。
+8. Submmition
 
 ## Final submmition result
 * Adjusted Rand Index = 0.81202
